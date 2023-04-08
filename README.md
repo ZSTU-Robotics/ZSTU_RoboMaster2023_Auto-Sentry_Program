@@ -1,5 +1,6 @@
 # ZSTU_RoboMaster2023_Auto-Sentry_Program
 浙江理工大学RoboMaster2023高校联盟赛（3v3）哨兵机器人代码
+增加自瞄装甲板功能
 基于步兵代码修改
 ### 软件环境
 
